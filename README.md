@@ -1,4 +1,4 @@
-# Message Generato
+# Message Generator
 ========================
 
 ## what is Message Generator?
